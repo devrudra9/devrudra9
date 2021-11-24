@@ -1,5 +1,5 @@
 - 👋 Heyy, I’m RUDRESHWAR BARANWAL
-- 👀 I’m interested in CP & WEB Development
+- 👀 Interested in CP & WEB Development
 - 🌱 I’m currently learning C, C++
 
 <!---
