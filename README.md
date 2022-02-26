@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rudreshwar Baranwal</h1>
 <h3 align="center">Sophomore @IT IIESTS | a philomath | CODER | WEB DEVELOPER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=voldy-2812&label=Profile%20views&color=0e75b6&style=flat" alt="voldy-2812" /> </p>
+<h4 align="center"><li>I am interested in learning new things.</h4>
+<h4 align="center"><li>I am currently doing Competitive Programming and Backend Web Development.</h4>
+<h4 align="center"><li>My hobbies are include reading books, coding and a few more stuffs like these.</h4>
 
-- 📫 How to reach me **baranwalrudreshwar@gmail.com**
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=voldy-2812&label=Profile%20views&color=0e75b6&style=flat" alt="voldy-2812" /> </p> <hr>
+
+📫 How to reach me **baranwalrudreshwar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
