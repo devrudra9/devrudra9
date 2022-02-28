@@ -12,9 +12,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rudreshwar-baranwal-a15622211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudreshwar-baranwal-a15622211" height="30" width="40" /></a> &nbsp;
-<a href="https://www.codechef.com/users/rudr_2812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rudr_2812" height="30" width="40" /></a> &nbsp;
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/baranwalrudreshwar/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/baranwalrudreshwar/profile" height="30" width="40" /></a> &nbsp;
+<a href="https://linkedin.com/in/rudreshwar-baranwal-a15622211" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/linkedin.png" alt="rudreshwar-baranwal-a15622211" height="40" width="40" /></a> &nbsp;
+<a href="https://www.facebook.com/rudreshwar.baranwal" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/facebook.png" alt="facebook" height="40" width="40" /></a> &nbsp;
+<a href="https://www.instagram.com/rudr_a_2812/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" alt="insta" height="40" width="40" /></a> &nbsp;
+<a href="https://www.youtube.com/channel/UCZ7BD6qHc72hU3fvR4Csrrg" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/youtube-squared.png" alt="youtube" height="40" width="40" /></a> &nbsp;
+<a href="https://www.codechef.com/users/rudr_2812" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/codechef.png" alt="rudr_2812" height="40" width="40" /></a> &nbsp;
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/baranwalrudreshwar/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/baranwalrudreshwar/profile" height="40" width="40" /></a> &nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
