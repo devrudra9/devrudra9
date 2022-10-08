@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rudreshwar Baranwal</h1>
-<h3 align="center">Sophomore @IT IIESTS | a philomath | CODER | WEB DEVELOPER</h3>
+<h3 align="center">Junior @IT IIESTS | a philomath | CODER | WEB DEVELOPER</h3>
 
 <h4 align="center"><li>Always interested in learning and exploring new things.</h4>
-<h4 align="center"><li>Currently doing Competitive Programming on different coding platforms and Backend Web Development.</h4>
-<h4 align="center"><li>My hobbies includes writing blogs, reading books, coding and a few more stuffs like these.</h4>
+<h4 align="center"><li>Trying to be quite good in Competitive Programming since yesterday.</h4>
+<h4 align="center"><li>My hobbies includes staying calm ?? ans finding reasons why to learn the things.</h4>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Profile%20views&color=0e75b6&style=flat" alt="devrudra9" /> </p> <hr>
