@@ -6,7 +6,7 @@
 <h4 align="center"><li>My hobbies includes writing blogs, reading books, coding and a few more stuffs like these.</h4>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=voldy-2812&label=Profile%20views&color=0e75b6&style=flat" alt="voldy-2812" /> </p> <hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Profile%20views&color=0e75b6&style=flat" alt="devrudra9" /> </p> <hr>
 
 📫 How to reach me **baranwalrudreshwar@gmail.com**
 
