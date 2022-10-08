@@ -3,7 +3,7 @@
 
 <h4 align="center"><li>Always interested in learning and exploring new things.</h4>
 <h4 align="center"><li>Trying to be quite good in Competitive Programming since yesterday.</h4>
-<h4 align="center"><li>My hobbies includes staying calm ?? ans finding reasons why to learn the things.</h4>
+<h4 align="center"><li>My hobbies includes staying calm ?? and finding reasons why we have to learn the things.</h4>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Profile%20views&color=0e75b6&style=flat" alt="devrudra9" /> </p> <hr>
