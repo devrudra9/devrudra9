@@ -3,6 +3,7 @@
 
 <h4 align="center"><li>Interested in learning and exploring new things.</h4>
 <h4 align="center"><li>Not good in CP, but loves it !!</h4>
+<h4 align="center"><li>Python: No, JavaScript: Yes</h4>
 <h4 align="center"><li>Finding my hobbies.</h4>
 
 
