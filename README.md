@@ -1,4 +1,4 @@
-<h1 align="center">नमस्ते (Namaste)🙏🏻 , I'm Rudreshwar Baranwal &nbsp;</h1>
+<h1>नमस्ते (Namaste)🙏🏻 , I'm Rudreshwar Baranwal &nbsp;</h1>
 <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Github%20Hits%20Stats&color=7842f5&style=flat" alt="devrudra9" />
 
 [![Twitter: rudra](https://img.shields.io/twitter/follow/Rudrr_a?label=Twitter)](https://twitter.com/Rudrr_a)
@@ -6,18 +6,16 @@
 ![GitHub: followers](https://img.shields.io/github/followers/devrudra9?label=Github&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://devrudra9.github.io/)](https://devrudra9.github.io/)
 <hr>
-<h3 align="center">Junior @IT IIESTS | a philomath | CODER | WEB DEVELOPER</h3>
+<h3>Student @IT IIESTS | musicLover | webDeveloper | coder</h3>
 
 <hr>
 
-<h4 align="center"><li>Interested in learning and exploring new things.</h4>
-<h4 align="center"><li>Not good in CP, but loves it !!</h4>
-<h4 align="center"><li>Python: No, JavaScript: Yes</h4>
-<h4 align="center"><li>Finding my hobbies.</h4>
+<h4><li>Interested in learning and exploring new things.</h4>
+<h4><li>Started writing "Hello World" in C</h4>
+<h4><li>Now, mostly code in JavaScript</h4>
+<h4><li>Currently doing Competitive Programming, Web Development and Open-Source.</h4>
+<h4><li>And also finding my hobbies.</h4>
 
-
-
-<!-- 📫 How to reach me **baranwalrudreshwar@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,13 +33,11 @@
 </a> &nbsp;
 </p>
 
-
+<hr>
 <h3 align="left">More About the tools I use :</h3>
-
 ```javascript
 const rudreshwar = {
     code: ["Javascript", "C++", "Java", "C"],
-    askMeAbout: ["web dev", "tech", "travelling", "photography"],
     technologies: {
         basic: ["html", "css", "javascript"]
         front-end: {
@@ -54,6 +50,7 @@ const rudreshwar = {
         databases: ["mongoDB", "MySQL", "mariaDB"],
         misc: ["Firebase", "Socket.IO", "AWS", "matlab"]
     },
+    askMeAbout: ["web dev", "tech", "travelling", "music"],
     funFact: "Never use python, when you have got javascript."
 };
 ```
