@@ -38,12 +38,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </p> 
-<hr> <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrudra9&show_icons=true&locale=en&layout=compact" alt="devrudra9" /></p>
+<hr> 
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrudra9&layout=donut&theme=dark)](https://github.com/devrudra9/github-readme-stats)
-
+<hr>
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=devrudra9&show_icons=true&theme=dark"
