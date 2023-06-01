@@ -10,11 +10,11 @@
 
 <hr>
 
-<h4><li style='list-style:"none"'>Interested in learning and exploring new things.</h4>
-<h4><li>Started writing "Hello World" in C</h4>
-<h4><li>Now, mostly code in JavaScript</h4>
-<h4><li>Currently doing Competitive Programming, Web Development and Open-Source.</h4>
-<h4><li>And also finding my hobbies.</h4>
+<h5><li>Interested in learning and exploring new things.</h5>
+<h5><li>Wrote "Hello World" in C in 2020</h5>
+<h5><li>Now, I mostly code in JavaScript</h5>
+<h5><li>Currently doing Competitive Programming, Web Development and Open-Source.</h5>
+<h5><li>And also finding my hobbies.</h5>
 
 
 <h3 align="left">Connect with me:</h3>
