@@ -20,7 +20,7 @@
     <img align="center" src="https://img.icons8.com/fluency/2x/linkedin.png" alt="rudreshwar-baranwal-a15622211" height="40" width="40" />
 </a> &nbsp;
 <a href="https://twitter.com/Rudrr_a" target="blank">
-    <img align="center" src="https://cdn.imgbin.com/19/14/23/imgbin-twitter-icon-transparent-others-DWNp0sPgMdKejEiDBAZ1REXRK.jpg" alt="twitter" height="40" width="40" />
+    <img align="center" src="https://www.citypng.com/public/uploads/preview/-516141173073bkpm2xhm8.png" alt="twitter" height="40" width="40" />
 </a> &nbsp;
 <a href="https://www.youtube.com/channel/UCxJtEaHxV4DNA4ZSiFrexOg" target="blank">
     <img align="center" src="https://clipart-library.com/images/dc4LABqni.png" alt="youtube" height="30" width="40" />
