@@ -33,7 +33,9 @@
 </p>
 
 <hr>
+
 <h3 align="left">More About the tools I use :</h3>
+
 ```javascript
 const rudreshwar = {
     code: ["Javascript", "C++", "Java", "C"],
@@ -53,7 +55,6 @@ const rudreshwar = {
     funFact: "Never use python, when you have got javascript."
 };
 ```
-
 
 <hr>
 
