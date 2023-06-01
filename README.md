@@ -1,21 +1,20 @@
-<h1>नमस्ते (Namaste)🙏🏻 , I'm Rudreshwar Baranwal &nbsp;</h1>
+<h1>Hello and नमस्ते🙏🏻 , I'm Rudreshwar Baranwal &nbsp;</h1>
 <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Github%20Hits%20Stats&color=7842f5&style=flat" alt="devrudra9" />
 
 [![Twitter: rudra](https://img.shields.io/twitter/follow/Rudrr_a?label=Twitter)](https://twitter.com/Rudrr_a)
 [![Linkedin: rudra](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/)](https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/)
-![GitHub: followers](https://img.shields.io/github/followers/devrudra9?label=Github&style=social)
+[![GitHub: followers](https://img.shields.io/github/followers/devrudra9?label=Github&style=social)](https://www.github.com/devrudra9)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://devrudra9.github.io/)](https://devrudra9.github.io/)
 <hr>
-<h3>Student @IT IIESTS | musicLover | webDeveloper | coder</h3>
+<h2>Short Bio : Student @IT IIESTS | musicLover | webDeveloper | coder</h2>
+
+<h4><li>Interested in learning and exploring new things.</h4>
+<h4><li>Wrote "Hello World" in C in 2020</h4>
+<h4><li>Now, I mostly code in JavaScript</h4>
+<h4><li>Currently doing Competitive Programming, Web Development and Open-Source.</h4>
+<h4><li>And also finding my hobbies.</h4>
 
 <hr>
-
-<h5><li>Interested in learning and exploring new things.</h5>
-<h5><li>Wrote "Hello World" in C in 2020</h5>
-<h5><li>Now, I mostly code in JavaScript</h5>
-<h5><li>Currently doing Competitive Programming, Web Development and Open-Source.</h5>
-<h5><li>And also finding my hobbies.</h5>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
