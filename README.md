@@ -1,6 +1,5 @@
 <h1 align="center">नमस्ते (Namaste)🙏🏻 , I'm Rudreshwar Baranwal &nbsp;</h1>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=devrudra9&label=Github%20Hits%20Stats&color=7842f5&style=flat" alt="devrudra9" /> </p>
-
+<img src="https://komarev.com/ghpvc/?username=devrudra9&label=Github%20Hits%20Stats&color=7842f5&style=flat" alt="devrudra9" />
 [![Twitter: rudra](https://img.shields.io/twitter/follow/Rudrr_a?label=Twitter)](https://twitter.com/Rudrr_a)
 [![Linkedin: rudra](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/)](https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/)
 ![GitHub: followers](https://img.shields.io/github/followers/devrudra9?label=Github&style=social)
