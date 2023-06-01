@@ -42,7 +42,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrudra9&show_icons=true&locale=en&layout=compact" alt="devrudra9" /></p>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrudra9&size_weight=0.5&count_weight=0.5)](https://github.com/devrudra9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrudra9&layout=donut)](https://github.com/devrudra9/github-readme-stats)
 
 <picture>
 <source
