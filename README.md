@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" display="inline">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rudreshwar-baranwal-a15622211" target="_blank">
     <img align="center" src="https://img.icons8.com/fluency/2x/linkedin.png" alt="rudreshwar-baranwal-a15622211" height="40" width="40" />
