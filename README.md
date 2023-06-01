@@ -16,9 +16,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rudreshwar-baranwal-a15622211" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/linkedin.png" alt="rudreshwar-baranwal-a15622211" height="40" width="40" /></a> &nbsp;
-<a href="https://twitter.com/Rudrr_a" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="facebook" height="40" width="40" /></a> &nbsp;
-<a href="https://www.youtube.com/channel/UCxJtEaHxV4DNA4ZSiFrexOg" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/youtube-squared.png" alt="youtube" height="40" width="40" /></a> &nbsp;
+<a href="https://linkedin.com/in/rudreshwar-baranwal-a15622211" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/2x/linkedin.png" alt="rudreshwar-baranwal-a15622211" height="40" width="40" />
+</a> &nbsp;
+<a href="https://twitter.com/Rudrr_a" target="blank">
+    <img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="facebook" height="40" width="40" />
+</a> &nbsp;
+<a href="https://www.youtube.com/channel/UCxJtEaHxV4DNA4ZSiFrexOg" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1077/1077046.png" alt="youtube" height="40" width="40" />
+</a> &nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
