@@ -25,6 +25,9 @@
 <a href="https://www.youtube.com/channel/UCxJtEaHxV4DNA4ZSiFrexOg" target="blank">
     <img align="center" src="https://clipart-library.com/images/dc4LABqni.png" alt="youtube" height="30" width="40" />
 </a> &nbsp;
+<a href="https://dev.to/devrudra9" target="blank">
+    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="youtube" height="30" width="40" />
+</a> &nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
