@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rudreshwar Baranwal &nbsp;</h1>
+<h1 align="center">नमस्ते (Namaste)🙏🏻 , I'm Rudreshwar Baranwal &nbsp;</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=devrudra9&label=Github%20Hits%20Stats&color=7842f5&style=flat" alt="devrudra9" /> </p>
 <hr>
 <h3 align="center">Junior @IT IIESTS | a philomath | CODER | WEB DEVELOPER</h3>
@@ -64,3 +64,6 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=devrudra9&show_icons=true" />
 </picture>
+
+<hr>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devrudra9)](https://github.com/devrudra9/github-readme-stats)
