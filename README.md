@@ -51,6 +51,7 @@ const rudreshwar = {
         databases: ["mongoDB", "MySQL", "mariaDB"],
         misc: ["Firebase", "Socket.IO", "AWS", "matlab"]
     },
+    courseWork: ["OS", "DBMS", "CN", "DAA", "OOPS", "CD"],
     askMeAbout: ["web dev", "tech", "travelling", "music"],
     funFact: "Never use python, when you have got javascript."
 };
