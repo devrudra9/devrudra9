@@ -6,7 +6,7 @@
 [![GitHub: followers](https://img.shields.io/github/followers/devrudra9?label=Github&style=social)](https://www.github.com/devrudra9)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://devrudra9.github.io/)](https://devrudra9.github.io/)
 <hr>
-<h2>Short Bio:  Student @IT IIESTS  |  musicLover  |  webDeveloper  |  coder</h2>
+<h2>Short Bio:&nbsp; Student @IT IIESTS &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;| &nbsp;coder</h2>
 
 <h4><li>Interested in learning and exploring new things.</h4>
 <h4><li>Wrote "Hello World" in C in 2020</h4>
@@ -43,7 +43,7 @@ const rudreshwar = {
         basic: ["html", "css", "javascript"]
         front-end: {
             js: ["React", "Vue", "ts", "gatsby"],
-            css: ["bootstap", "tailwind"],
+            css: ["bootstrap", "tailwind"],
         }
         back-end: {
             js: ["Node", "Express"],
