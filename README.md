@@ -10,7 +10,7 @@
 
 <hr>
 
-<h4><li>Interested in learning and exploring new things.</h4>
+<h4><li style='list-style:"none"'>Interested in learning and exploring new things.</h4>
 <h4><li>Started writing "Hello World" in C</h4>
 <h4><li>Now, mostly code in JavaScript</h4>
 <h4><li>Currently doing Competitive Programming, Web Development and Open-Source.</h4>
