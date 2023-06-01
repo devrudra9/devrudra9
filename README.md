@@ -1,10 +1,10 @@
 <h1>Hello and नमस्ते🙏🏻 , I'm Rudreshwar Baranwal &nbsp;</h1>
 <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Github%20Hits%20Stats&color=7842f5&style=flat" alt="devrudra9" />
 
-[![Twitter: rudra](https://img.shields.io/twitter/follow/Rudrr_a?label=Twitter)](https://twitter.com/Rudrr_a) &nbsp;
-[![Linkedin: rudra](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/)](https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/)
-[![GitHub: followers](https://img.shields.io/github/followers/devrudra9?label=Github&style=social)](https://www.github.com/devrudra9)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://devrudra9.github.io/)](https://devrudra9.github.io/)
+[![Twitter: rudra](https://img.shields.io/twitter/follow/Rudrr_a?label=Twitter)](https://twitter.com/Rudrr_a) &nbsp; &nbsp;
+[![Linkedin: rudra](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/)](https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/) &nbsp; &nbsp;
+[![GitHub: followers](https://img.shields.io/github/followers/devrudra9?label=Github&style=social)](https://www.github.com/devrudra9) &nbsp; &nbsp;
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://devrudra9.github.io/)](https://devrudra9.github.io/) &nbsp; &nbsp;
 <hr>
 <h2>Short Bio:&nbsp; Student @IT IIESTS &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;| &nbsp;coder</h2>
 
