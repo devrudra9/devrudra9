@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rudreshwar Baranwal</h1>
+<h1 align="center">Hi 👋, I'm Rudreshwar Baranwal &nbsp;</h1>
+<img src="https://komarev.com/ghpvc/?username=devrudra9&label=Hits&color=7842f5&style=flat" alt="devrudra9" /> 
+<hr>
 <h3 align="center">Junior @IT IIESTS | a philomath | CODER | WEB DEVELOPER</h3>
 
-<h1> <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Hits&color=7842f5&style=flat" alt="devrudra9" /> </h1>
 <hr>
 
 <h4 align="center"><li>Interested in learning and exploring new things.</h4>
