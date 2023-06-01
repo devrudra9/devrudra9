@@ -26,9 +26,29 @@
     <img align="center" src="https://clipart-library.com/images/dc4LABqni.png" alt="youtube" height="30" width="40" />
 </a> &nbsp;
 <a href="https://dev.to/devrudra9" target="_blank">
-    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="youtube" height="30" width="40" />
+    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="youtube" height="40" width="40" />
 </a> &nbsp;
 </p>
+
+```javascript
+const rudreshwar = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "C++", "Java", "C"],
+    askMeAbout: ["web dev", "tech", "travelling", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        frontEnd: {
+            js: ["React", "Vue", "ts"],
+        }
+        databases: ["mongoDB", "MySQL", "mariaDB"],
+        misc: ["Firebase", "Socket.IO", "AWS"]
+    },
+    currentWork: "Be Calm...",
+    funFact: "Never use python, when you have got javascript."
+};
+```
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
