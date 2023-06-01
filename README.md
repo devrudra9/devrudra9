@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rudreshwar Baranwal</h1>
 <h3 align="center">Junior @IT IIESTS | a philomath | CODER | WEB DEVELOPER</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Profile%20views&color=0e75b6&style=flat" alt="devrudra9" /> Profile Hits </p> 
+<hr>
+
 <h4 align="center"><li>Interested in learning and exploring new things.</h4>
 <h4 align="center"><li>Not good in CP, but loves it !!</h4>
 <h4 align="center"><li>Python: No, JavaScript: Yes</h4>
 <h4 align="center"><li>Finding my hobbies.</h4>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Profile%20views&color=0e75b6&style=flat" alt="devrudra9" /> </p> <hr>
 
 📫 How to reach me **baranwalrudreshwar@gmail.com**
 
