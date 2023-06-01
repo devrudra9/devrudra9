@@ -16,16 +16,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rudreshwar-baranwal-a15622211" target="blank">
+<a href="https://linkedin.com/in/rudreshwar-baranwal-a15622211" target="_blank">
     <img align="center" src="https://img.icons8.com/fluency/2x/linkedin.png" alt="rudreshwar-baranwal-a15622211" height="40" width="40" />
 </a> &nbsp;
-<a href="https://twitter.com/Rudrr_a" target="blank">
+<a href="https://twitter.com/Rudrr_a" target="_blank">
     <img align="center" src="https://www.pngkey.com/png/full/376-3769707_facebook-icon-instagram-icon-twitter-icon-twitter-icon.png" alt="twitter" height="40" width="40" />
 </a> &nbsp;
-<a href="https://www.youtube.com/channel/UCxJtEaHxV4DNA4ZSiFrexOg" target="blank">
+<a href="https://www.youtube.com/channel/UCxJtEaHxV4DNA4ZSiFrexOg" target="_blank">
     <img align="center" src="https://clipart-library.com/images/dc4LABqni.png" alt="youtube" height="30" width="40" />
 </a> &nbsp;
-<a href="https://dev.to/devrudra9" target="blank">
+<a href="https://dev.to/devrudra9" target="_blank">
     <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="youtube" height="30" width="40" />
 </a> &nbsp;
 </p>
