@@ -45,8 +45,8 @@
 <hr>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=devrudra9&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=devrudra9&theme=default" />
 </picture>
 
 <hr>
