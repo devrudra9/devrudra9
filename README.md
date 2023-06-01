@@ -70,7 +70,7 @@ const rudreshwar = {
 <hr>
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=devrudra9&show_icons=true&theme=dark&hide_rank=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=devrudra9&show_icons=true&theme=dark&rank_icon=github"
   media="(prefers-color-scheme: dark)"
 />
 <source
