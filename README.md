@@ -12,7 +12,7 @@
 
 
 
-📫 How to reach me **baranwalrudreshwar@gmail.com**
+<!-- 📫 How to reach me **baranwalrudreshwar@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,44 +30,29 @@
 </a> &nbsp;
 </p>
 
+
+<h3 align="left">More About the tools I use :</h3>
 ```javascript
 const rudreshwar = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "C++", "Java", "C"],
     askMeAbout: ["web dev", "tech", "travelling", "photography"],
     technologies: {
-        backEnd: {
+        basic: ["html", "css", "javascript"]
+        front-end: {
+            js: ["React", "Vue", "ts", "gatsby"],
+            css: ["bootstap", "tailwind"],
+        }
+        back-end: {
             js: ["Node", "Express"],
         },
-        frontEnd: {
-            js: ["React", "Vue", "ts"],
-        }
         databases: ["mongoDB", "MySQL", "mariaDB"],
-        misc: ["Firebase", "Socket.IO", "AWS"]
+        misc: ["Firebase", "Socket.IO", "AWS", "matlab"]
     },
-    currentWork: "Be Calm...",
     funFact: "Never use python, when you have got javascript."
 };
 ```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="react" width="40" height="40"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </p> 
-<hr> 
+
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrudra9&layout=donut&theme=dark)](https://github.com/devrudra9/github-readme-stats)
