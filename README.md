@@ -43,7 +43,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrudra9&layout=donut&theme=dark)](https://github.com/devrudra9/github-readme-stats)
 <hr>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devrudra9&theme=dark)](https://git.io/streak-stats)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+</picture>
+
 <hr>
 <picture>
 <source
