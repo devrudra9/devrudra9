@@ -9,9 +9,9 @@
 <h2>Short Bio:&nbsp; Student @IT IIESTS &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;| &nbsp;coder</h2>
 
 <h4><li>Interested in learning and exploring new things.</h4>
-<h4><li>Got into programming culture in 2020</h4>
-<h4><li>I mostly code in JavaScript</h4>
-<h4><li>Currently doing Competitive Programming(C++), Web Development(MERN) and Open-Source.</h4>
+<h4><li>Got into programming culture in 2020.</h4>
+<h4><li>I mostly code in JavaScript.</h4>
+<h4><li>Currently doing Competitive Programming (C++), Web Development (MERN) and Open-Source.</h4>
 <h4><li>And yeah, finding my hobbies too.</h4>
 
 <hr>
