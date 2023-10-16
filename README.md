@@ -1,21 +1,34 @@
-<h1>Hello and नमस्ते🙏🏻 , I'm Rudreshwar Baranwal &nbsp;</h1>
-<img src="https://komarev.com/ghpvc/?username=devrudra9&label=Github%20Hits%20Stats&color=7842f5&style=flat" alt="devrudra9" />
+# Hello Folks! 
+ <!-- Profile views -->
+ <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Github%20Hits%20Stats&color=7842f9&style=flat" alt="devrudra9" />
+ <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
+ 
+ <p align="left">My name is Rudreshwar Baranwal and I'm a Fullstack Developer.
+  
+IT Undergrad @IIESTS &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;| &nbsp;coder
+  
+<!--   I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
+</p>
+
+🌱 I’m currently learning DevOps && AWS
+
+👯 I’m looking to collaborate on different projects
+
+👨‍💻 All of my projects are available at [my website](https://github.com/devrudra9)
+
+👀 Ask me about React, NextJS, NodeJS, and APIs
+
+📫You can reach me at baranwalrudreshwar@gmail.com
+
+<br>
 
 [![Twitter: rudra](https://img.shields.io/twitter/follow/Rudrr_a?label=Twitter)](https://twitter.com/Rudrr_a) &nbsp; &nbsp;
 [![Linkedin: rudra](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/)](https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/) &nbsp; &nbsp;
 [![GitHub: followers](https://img.shields.io/github/followers/devrudra9?label=Github&style=social)](https://www.github.com/devrudra9) &nbsp; &nbsp;
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://devrudra9.github.io/)](https://devrudra9.github.io/) &nbsp; &nbsp;
 <hr>
-<h2>Short Bio:&nbsp; Student @IT IIESTS &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;| &nbsp;coder</h2>
 
-<h4><li>Interested in learning and exploring new things.</h4>
-<h4><li>Got into programming culture in 2020.</h4>
-<h4><li>I mostly code in JavaScript.</h4>
-<h4><li>Currently doing Competitive Programming (C++), Web Development (MERN) and Open-Source.</h4>
-<h4><li>And yeah, finding my hobbies too.</h4>
-
-<hr>
-<h3>Connect with me:</h3>
+# Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/rudreshwar-baranwal-a15622211" target="_blank">
     <img align="center" src="https://img.icons8.com/fluency/2x/linkedin.png" alt="rudreshwar-baranwal-a15622211" height="40" width="40" />
@@ -58,6 +71,14 @@ const rudreshwar = {
 
 <hr>
 
+# GitHub Stats 📈
+
+<a href="https://github.com/devrudra9/devrudra9">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devrudra9&theme=radical&hide_border=true)](https://github.com/devrudra9" alt="Rudreshwar's GitHub Stats Graph"/>
+</a>
+<br><br>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrudra9&layout=donut&theme=dark)](https://github.com/devrudra9/github-readme-stats)
 <hr>
 
@@ -66,7 +87,6 @@ const rudreshwar = {
     <img src="https://streak-stats.demolab.com?user=devrudra9&theme=default" />
 </picture>
 
-<hr>
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=devrudra9&show_icons=true&theme=dark&rank_icon=github"
