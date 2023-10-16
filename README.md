@@ -75,31 +75,9 @@ const rudreshwar = {
 
 # GitHub Stats 📈
 
-<a href="https://github.com/devrudra9/devrudra9">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devrudra9&theme=radical&hide_border=true)](https://github.com/devrudra9" alt="Rudreshwar's GitHub Stats Graph"/>
-</a>
-<br><br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrudra9&layout=donut&theme=dark)](https://github.com/devrudra9/github-readme-stats)
-<hr>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=devrudra9&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=devrudra9&theme=default" />
-</picture>
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=devrudra9&show_icons=true&theme=dark&rank_icon=github"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=devrudra9&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=devrudra9&show_icons=true" />
-</picture>
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devrudra9&theme=radical&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrudra9&layout=compact&theme=tokyonight)|
+|-|-|
+![](https://github-readme-stats.vercel.app/api?username=devrudra9&&show_icons=true&title_color=00f0d0&icon_color=bb2acf&text_color=daf7dc&bg_color=000314)|![](https://streak-stats.demolab.com?user=devrudra9&theme=dark)|
 
 <hr>
 
