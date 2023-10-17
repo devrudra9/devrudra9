@@ -81,6 +81,4 @@ const rudreshwar = {
 
 <hr>
 
-<p>
- <img src="https://holopin.io/api/user/board?user=rudra_" />
-</p>
+[![An image of @rudra_'s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rudra_)](https://holopin.io/@rudra_)
