@@ -1,4 +1,4 @@
-![Header](https://github.com/devrudra9/devrudra9/blob/main/Header.png?raw=true)
+![Header Image](https://github.com/devrudra9/devrudra9/blob/main/Header.png?raw=true)
 
 # Hello Folks! 
  <!-- Profile views -->
