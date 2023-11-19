@@ -1,6 +1,7 @@
-![Header Image](https://github.com/devrudra9/devrudra9/blob/main/Header.png?raw=true)
+# Hello Folks! ```[!devrudra9]``` here
 
-# Hello Folks! 
+[![bap's GitHub | Stats](https://stats.quine.sh/devrudra9/github?theme=dark)](https://quine.sh)
+
  <!-- Profile views -->
  <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Github%20Hits%20Stats&color=7842f9&style=flat" alt="devrudra9" />
  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
