@@ -6,16 +6,16 @@
  
  <p align="left">My name is Rudreshwar Baranwal and I'm a Fullstack Web Developer.
   
-Software Developer @BNY &nbsp;| IT Undergrad @IIESTS &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;| &nbsp;coder
+Software Developer @BNY &nbsp;|&nbsp; IT Graduate @IIESTS &nbsp;| &nbsp;webDeveloper &nbsp;|&nbsp; musicLover
   
-<!--   I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
+Motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering.
 </p>
 
-🌱 I’m currently learning lot of things
+🌱 I’m currently learning a lot of things.
 
-👯 I’m looking to collaborate on different projects
+👯 I’m also looking to collaborate on various exciting projects.
 
-👨‍💻 All of my projects are available at [my website](https://github.com/devrudra9)
+👨‍💻 All of my projects are available in [my github](https://github.com/devrudra9)
 
 👀 Ask me about React, Angular, Node, Springboot and much more...
 
