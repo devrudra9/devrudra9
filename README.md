@@ -59,7 +59,9 @@ const rudreshwar = {
             css: ["bootstrap", "tailwind"],
         }
         back-end: {
-            js: ["NodeJS", "SpringBoot", "Express", "Django"],
+            js: ["NodeJS", "Express"],
+            java: ["SpringBoot"],
+            python: ["Django"]
         },
         databases: ["mongoDB", "MySQL", "PostgreSQL", "Redis"],
         misc: ["Firebase", "DevOps", "Microservices", "AWS", "GenAI"]
