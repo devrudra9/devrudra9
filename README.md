@@ -66,7 +66,7 @@ const rudreshwar = {
     },
     courseWork: ["OS", "DBMS", "CN", "DAA", "OOPS", "CD"],
     askMeAbout: ["web dev", "tech", "travelling", "music"],
-    quoteILike: "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.” — Attributed to Henry Ford"
+    quoteILike: "Anyone who keeps learning stays young."
 };
 ```
 
