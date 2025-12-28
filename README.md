@@ -56,14 +56,14 @@ const rudreshwar = {
         basic: ["html", "css", "javascript"]
         front-end: {
             js: ["React", "Vue", "Angular", "NextJS"],
-            css: ["bootstrap", "tailwind"],
+            css: ["bootstrap", "tailwind"]
         }
         back-end: {
             js: ["NodeJS", "Express"],
             java: ["SpringBoot"],
             python: ["Django"]
-        },
-        databases: ["mongoDB", "MySQL", "PostgreSQL", "Redis"],
+        }
+        databases: ["mongoDB", "MySQL", "PostgreSQL", "Redis"]
         misc: ["Firebase", "DevOps", "Microservices", "AWS", "GenAI"]
     },
     courseWork: ["OS", "DBMS", "CN", "DAA", "OOPS", "CD"],
