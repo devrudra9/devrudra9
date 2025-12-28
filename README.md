@@ -8,7 +8,7 @@
   
 Software Developer @BNY &nbsp;|&nbsp; IT Graduate @IIESTS &nbsp;| &nbsp;webDeveloper &nbsp;|&nbsp; musicLover
   
-Motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering.
+<!-- Motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
 </p>
 
 🌱 I’m currently learning a lot of things.
