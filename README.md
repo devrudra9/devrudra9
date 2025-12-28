@@ -4,26 +4,26 @@
  <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Github%20Hits%20Stats&color=7842f9&style=flat" alt="devrudra9" />
  <img src="https://stats.quine.sh/devrudra9/github?theme=dark" alt="devrudra9's GitHub | Stats" align="right" height="300">
  
- <p align="left">My name is Rudreshwar Baranwal and I'm a Fullstack Developer.
+ <p align="left">My name is Rudreshwar Baranwal and I'm a Fullstack Web Developer.
   
-IT Undergrad @IIESTS &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;| &nbsp;coder
+Software Developer @BNY &nbsp;| IT Undergrad @IIESTS &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;| &nbsp;coder
   
 <!--   I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
 </p>
 
-🌱 I’m currently learning DevOps && AWS
+🌱 I’m currently learning lot of things
 
 👯 I’m looking to collaborate on different projects
 
 👨‍💻 All of my projects are available at [my website](https://github.com/devrudra9)
 
-👀 Ask me about React, NextJS, NodeJS, and APIs
+👀 Ask me about React, Angular, Node, Springboot and much more...
 
 📫You can reach me at baranwalrudreshwar@gmail.com
 
 <br>
 
-[![Twitter: rudra](https://img.shields.io/twitter/follow/Rudrr_a?label=Twitter)](https://twitter.com/Rudrr_a) &nbsp; &nbsp;
+[![Twitter: rudra](https://img.shields.io/twitter/follow/Rudrr_a?label=Twitter(X))](https://twitter.com/Rudrr_a) &nbsp; &nbsp;
 [![Linkedin: rudra](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/)](https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/) &nbsp; &nbsp;
 [![GitHub: followers](https://img.shields.io/github/followers/devrudra9?label=Github&style=social)](https://www.github.com/devrudra9) &nbsp; &nbsp;
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://devrudra9.github.io/)](https://devrudra9.github.io/) &nbsp; &nbsp;
@@ -51,22 +51,22 @@ IT Undergrad @IIESTS &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;|
 
 ```javascript
 const rudreshwar = {
-    code: ["Javascript", "C++", "Java", "C"],
+    code: ["C++", "Java", "C", "Javascript", "Python"],
     technologies: {
         basic: ["html", "css", "javascript"]
         front-end: {
-            js: ["React", "Vue", "ts", "gatsby"],
+            js: ["React", "Vue", "Angular", "NextJS"],
             css: ["bootstrap", "tailwind"],
         }
         back-end: {
-            js: ["Node", "Express"],
+            js: ["NodeJS", "SpringBoot", "Express", "Django"],
         },
-        databases: ["mongoDB", "MySQL", "mariaDB"],
-        misc: ["Firebase", "Socket.IO", "AWS", "matlab"]
+        databases: ["mongoDB", "MySQL", "PostgreSQL", "Redis"],
+        misc: ["Firebase", "DevOps", "Microservices", "AWS", "GenAI"]
     },
     courseWork: ["OS", "DBMS", "CN", "DAA", "OOPS", "CD"],
     askMeAbout: ["web dev", "tech", "travelling", "music"],
-    funFact: "Never use python, when you've got javascript."
+    quoteILike: "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.” — Attributed to Henry Ford"
 };
 ```
 
