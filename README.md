@@ -2,7 +2,7 @@
 
  <!-- Profile views -->
  <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Github%20Hits%20Stats&color=7842f9&style=flat" alt="devrudra9" />
- <img src="https://stats.quine.sh/devrudra9/github?theme=dark" alt="devrudra9's GitHub | Stats" align="right" height="300">
+ <!-- <img src="https://stats.quine.sh/devrudra9/github?theme=dark" alt="devrudra9's GitHub | Stats" align="right" height="300"> -->
  
  <p align="left">My name is Rudreshwar Baranwal and I'm a Fullstack Web Developer.
   
