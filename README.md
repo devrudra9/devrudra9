@@ -15,7 +15,7 @@ Software Developer @BNY &nbsp;|&nbsp; IT Graduate @IIESTS &nbsp;| &nbsp;webDevel
 
 👯 I’m also looking to collaborate on various exciting projects.
 
-👨‍💻 All of my projects are available in [my github](https://github.com/devrudra9)
+👨‍💻 All of my projects are available in [my github](https://github.com/devrudra9?tab=repositories)
 
 👀 Ask me about React, Angular, Node, Springboot and much more...
 
