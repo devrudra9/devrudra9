@@ -16,7 +16,7 @@ My primary interests include:
 
 ## 🚀 Featured Project
 
-### CodeSync Platform *(Work In Progress)*
+### CodeSync Platform *(WIP)*
 
 A production-inspired collaborative coding platform built using **Java**, **Spring Boot**, **Angular**, **WebSockets**, and **Docker**.
 
