@@ -2,21 +2,21 @@
 
 **Software Developer @ BNY** • **B.Tech (Information Technology) @ IIEST Shibpur**
 
-Java • Spring Boot • Distributed Systems • Microservices • System Design
+**Java • Spring Boot • Distributed Systems • Microservices • System Design**
 
 ---
 
-I'm a software engineer passionate about building scalable backend systems, distributed applications, and production-grade software. I enjoy solving complex engineering problems and continuously learning modern technologies.
+I'm a software engineer passionate about building scalable backend systems and production-grade applications. I enjoy designing clean architectures, solving challenging engineering problems, and continuously learning modern backend technologies.
 
 ---
 
-# 🚀 Currently Building
+# 🚀 Featured Project
 
-## CodeSync Platform *(WIP)*
+## CodeSync Platform *(Work In Progress)*
 
 A production-inspired collaborative coding platform built using **Java**, **Spring Boot**, **Angular**, **WebSockets**, and **Docker**.
 
-### Current Features
+### Highlights
 
 - Real-time collaborative code editing
 - Live cursor synchronization
@@ -26,7 +26,7 @@ A production-inspired collaborative coding platform built using **Java**, **Spri
 - WebSocket-powered collaboration
 - Horizontally scalable architecture
 
-> 🚧 This project is actively under development. More features, documentation, and architecture diagrams will be added soon.
+> 🚧 Currently under active development. More features, documentation, and architecture diagrams will be added soon.
 
 ---
 
@@ -59,13 +59,14 @@ A production-inspired collaborative coding platform built using **Java**, **Spri
 
 ---
 
-# 🌱 Currently Exploring
+# 🌱 Core Interests
 
+- Backend Engineering
 - Distributed Systems
-- Apache Kafka
-- Kubernetes
+- Microservices
 - System Design
-- Low-Level Design
+- High-Performance Applications
+- Cloud-Native Development
 
 ---
 
@@ -88,6 +89,7 @@ A production-inspired collaborative coding platform built using **Java**, **Spri
 # 📫 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/rudreshwarbaranwal">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -99,6 +101,7 @@ A production-inspired collaborative coding platform built using **Java**, **Spri
 <a href="https://github.com/devrudra9">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
