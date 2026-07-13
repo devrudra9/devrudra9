@@ -1,40 +1,36 @@
 # Hi, I'm Rudreshwar Baranwal 👋
 
-**Software Developer @ BNY** | **B.Tech (Information Technology) @ IIEST Shibpur**
+**Software Developer @ BNY** • **B.Tech (Information Technology) @ IIEST Shibpur**
 
-I'm a software engineer passionate about designing scalable backend systems, distributed applications, and production-grade software.
-
-My primary interests include:
-
-- Backend Development
-- Distributed Systems
-- Microservices
-- System Design
-- High-Performance Applications
+Java • Spring Boot • Distributed Systems • Microservices • System Design
 
 ---
 
-## 🚀 Featured Project
+I'm a software engineer passionate about building scalable backend systems, distributed applications, and production-grade software. I enjoy solving complex engineering problems and continuously learning modern technologies.
 
-### CodeSync Platform *(WIP)*
+---
+
+# 🚀 Currently Building
+
+## CodeSync Platform *(Work in Progress)*
 
 A production-inspired collaborative coding platform built using **Java**, **Spring Boot**, **Angular**, **WebSockets**, and **Docker**.
 
-Current Features
+### Current Features
 
-- Real-time collaborative editing
+- Real-time collaborative code editing
 - Live cursor synchronization
 - Multi-language code execution
-- JWT Authentication & RBAC
+- JWT Authentication & Role-Based Access Control
 - GitHub-style version control
-- WebSocket-based collaboration
+- WebSocket-powered collaboration
 - Horizontally scalable architecture
 
-> 🚧 This project is actively under development. More features and documentation will be added soon.
+> 🚧 This project is actively under development. More features, documentation, and architecture diagrams will be added soon.
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
@@ -46,9 +42,9 @@ Current Features
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### Frontend
 
@@ -63,7 +59,17 @@ Current Features
 
 ---
 
-## 📈 GitHub Activity
+# 🌱 Currently Exploring
+
+- Distributed Systems
+- Apache Kafka
+- Kubernetes
+- System Design
+- Low-Level Design
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devrudra9&theme=github-dark&hide_border=true"/>
@@ -71,7 +77,7 @@ Current Features
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devrudra9&theme=github_dark"/>
@@ -79,11 +85,22 @@ Current Features
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/rudreshwarbaranwal
-- 📧 Email: **baranwalrudreshwar@gmail.com**
+<p align="left">
+<a href="https://www.linkedin.com/in/rudreshwarbaranwal">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:baranwalrudreshwar@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/devrudra9">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-⭐ **I enjoy building scalable software, solving challenging engineering problems, and continuously learning modern backend technologies.**
+⭐ *I enjoy building scalable software, solving challenging engineering problems, and continuously learning modern backend technologies.*
