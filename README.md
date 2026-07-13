@@ -12,7 +12,7 @@ I'm a software engineer passionate about building scalable backend systems, dist
 
 # 🚀 Currently Building
 
-## CodeSync Platform *(Work in Progress)*
+## CodeSync Platform *(WIP)*
 
 A production-inspired collaborative coding platform built using **Java**, **Spring Boot**, **Angular**, **WebSockets**, and **Docker**.
 
