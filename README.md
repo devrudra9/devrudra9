@@ -1,6 +1,6 @@
 # Hi, I'm Rudreshwar Baranwal 👋
 
-**Software Developer @ BNY** • **B.Tech (Information Technology) @ IIEST Shibpur**
+**Software Developer @ BNY**
 
 **Java • Spring Boot • Distributed Systems • Microservices • System Design**
 
