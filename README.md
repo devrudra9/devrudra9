@@ -1,6 +1,6 @@
 # Hi, I'm Rudreshwar Baranwal 👋
 
-**Software Developer @ BNY**
+**Software Engineer @ BNY**
 
 **Java • Spring Boot • Distributed Systems • Microservices • System Design**
 
